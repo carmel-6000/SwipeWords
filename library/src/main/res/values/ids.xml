@@ -1,0 +1,6 @@
+<resources>
+
+    <item name="twowayview_item_click_support" type="id"/>
+    <item name="twowayview_item_selection_support" type="id"/>
+
+</resources>
